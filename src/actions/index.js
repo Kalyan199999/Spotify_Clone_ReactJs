@@ -39,3 +39,4 @@ export const setCurrentLocation = (val) => {
         payload: val,
     };
 };
+
